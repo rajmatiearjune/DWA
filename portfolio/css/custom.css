@@ -1,0 +1,128 @@
+/*container to hold all elements within site*/
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #FFFFFF;
+	background-size: auto;
+	border-color: #999999;
+	border-radius: 2px;
+	margin-left: auto;
+	margin-right: auto;	
+	padding-left: 1.82%;
+	padding-right: 1.82%;*/
+	}
+
+body { 
+	margin: 0; 
+	font-size: 1em; 
+	line-height: 1.231; 
+
+	}
+
+.nav{
+	float: right;
+	clear: both;
+	width: 100%;
+	font-size: 1em;
+	
+	}
+
+.logo{
+	float:left;
+	clear:right;
+	margin-top: 10px;
+	width:0 auto;
+	}
+
+
+h6{
+	color: #375100; 
+	}
+
+article, aside, details, figcaption, figure, footer, nav. header, hgroup, { 
+	display: inline-block; 
+	float: right;
+	clear: right;
+	padding: 5px;
+	width: 0 auto;
+	border:thin;
+	font-family: "Comic Sans MS", cursive;
+	color: #CC0000;
+	font-size: 16px;
+
+	}
+	
+.header{
+	background-color: #000000;
+	background-size:cover;
+	padding:30px;
+	padding-left: 60px;
+	color: #A9D200;
+	font-family: "MS Serif", "New York", serif;
+	}
+	
+.footer{
+	background-color:#CCCCCC;
+	background-size:cover;
+	padding: 30px;
+	text-align: center;
+	
+	}
+	
+html { 
+	font-size: 100%; 
+	overflow-y: scroll; 
+	-webkit-text-size-adjust: 100%; 
+	-ms-text-size-adjust: 100%; 
+	}
+	
+img{
+	width:100%;
+	}
+	
+
+body, button, input, select, textarea { 
+	font-family: sans-serif; 
+	color: #222; 
+	}
+	
+.sidebar1 {
+	float: left;
+	width: 20%;
+	padding: 10px;
+}
+
+
+.content {
+	padding-right: 0 auto;
+	padding-left: 30px;
+	width: 70%;
+	float: left;	
+}
+
+
+/*links*/
+a { 
+	color: #3A5202; 
+	}
+a:visited { 
+	color: #8A8504; 
+	}
+a:hover { 
+	color: #00CC00; 
+	}
+a:focus { 
+	outline: invert; 
+	}
+
+/*links */
+a:hover, a:active {
+	outline: 0; 
+	}
+	
+h7{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	}
